@@ -2,4 +2,5 @@ This is my first work in Git.
 Teaching by Dhrubo.
 Using after 3 days.
 Ki hoitese bujhtesi na monu.Ekhon ki kaj hoitse.
-VS code open korlam.
+VS code prctice shuru korlam.
+Sikhte parle coding mojar. Ei ta update korte hobe !!
